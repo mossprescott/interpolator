@@ -3,6 +3,7 @@ version: '0.1'
 author: Dan Fithian <daniel.m.fithian@gmail.com>
 maintainer: TVision Insights
 license: MIT
+bug-reports: https://github.com/tvision-insights/interpolator/issues
 synopsis: 'Runtime interpolation of environment variables in records using profunctors'
 description: |
   Runtime interpolation of environment variables in records using profunctors. See
